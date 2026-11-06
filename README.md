@@ -1,4 +1,6 @@
-# Fuel & Form
+# Fuel & Form — Version 1
+
+This is the original design. The redesign is **Version 2**: https://github.com/rowzex/fuel-and-form-v2 (same features, new look, with side-by-side screenshots).
 
 A calorie and habits coach for iOS and Android, built with Expo (React Native) and Expo Router.
 
